@@ -1,0 +1,121 @@
+EmpID,Name,Department,Designation,Experience,WorkLifeBalance,Recognition,CareerGrowth,Rating,Feedback,Date,Source
+EMP001,Aarav Reddy,Human Resources,Associate,8,4,4,3,4,,08-08-2026,HR Survey
+EMP002,Diya Sharma,Human Resources,Executive,7,4,3,4,4,,29-08-2026,HR Survey
+EMP003,Manav Desai,Human Resources,Executive,6,4,3,3,3,"No major complaints, though communication could be better.",16-08-2026,HR Survey
+EMP004,Nikhil Patel,Human Resources,Executive,13,4,5,5,5,,19-08-2026,HR Survey
+EMP005,Kavya Rao,Human Resources,Manager,4,5,4,5,5,,26-08-2026,HR Survey
+EMP006,Varun Patel,Human Resources,Executive,8,4,3,4,4,Managers are approachable and my work gets noticed.,27-08-2026,HR Survey
+EMP007,Siddharth Bhatt,Human Resources,Associate,6,3,3,3,3,Appraisals are regular but feedback stays vague.,16-09-2026,HR Survey
+EMP008,Siddharth Patel,Human Resources,Manager,6,5,5,5,5,Good learning opportunities and clear targets.,20-08-2026,HR Survey
+EMP009,Siddharth Reddy,Human Resources,Manager,8,5,4,5,5,Managers are approachable and my work gets noticed.,23-08-2026,HR Survey
+EMP010,Kabir Nair,Human Resources,Manager,11,4,5,5,4,Good learning opportunities and clear targets.,12-08-2026,HR Survey
+EMP011,Sneha Reddy,Human Resources,Manager,18,3,4,4,3,Appraisals are regular but feedback stays vague.,17-08-2026,HR Survey
+EMP012,Rohan Kulkarni,Human Resources,Team Lead,3,4,4,5,5,Flexible hours make a real difference to my week.,15-09-2026,HR Survey
+EMP013,Kabir Mehta,Human Resources,Team Lead,15,4,3,3,4,,20-08-2026,HR Survey
+EMP014,Nikhil Patel,Human Resources,Associate,14,5,5,4,5,The team culture here is genuinely supportive.,04-09-2026,HR Survey
+EMP015,Aditya Sinha,Finance,Executive,10,5,5,5,5,Flexible hours make a real difference to my week.,06-09-2026,HR Survey
+EMP016,Aditya Sinha,Finance,Executive,11,5,4,4,5,The team culture here is genuinely supportive.,22-08-2026,HR Survey
+EMP017,Sneha Sinha,Finance,Manager,3,2,4,2,3,"No major complaints, though communication could be better.",11-08-2026,HR Survey
+EMP018,Sanya Iyer,Finance,Associate,17,5,4,4,4,The team culture here is genuinely supportive.,28-08-2026,HR Survey
+EMP019,Siddharth Joshi,Finance,Team Lead,17,5,4,5,5,Flexible hours make a real difference to my week.,07-08-2026,HR Survey
+EMP020,Manav Kulkarni,Finance,Senior Executive,8,2,2,2,3,"No major complaints, though communication could be better.",07-08-2026,HR Survey
+EMP021,Nikhil Patel,Finance,Manager,8,5,5,5,5,,11-08-2026,HR Survey
+EMP022,Manav Banerjee,Finance,Team Lead,8,5,5,4,4,Managers are approachable and my work gets noticed.,09-08-2026,HR Survey
+EMP023,Tara Mehta,Finance,Team Lead,15,3,3,3,4,Good learning opportunities and clear targets.,24-08-2026,HR Survey
+EMP024,Meera Nair,Finance,Senior Executive,7,5,5,5,5,Flexible hours make a real difference to my week.,20-08-2026,HR Survey
+EMP025,Kabir Rao,Finance,Manager,4,3,3,3,4,Flexible hours make a real difference to my week.,13-08-2026,HR Survey
+EMP026,Neha Nair,Finance,Team Lead,2,4,5,3,4,Good learning opportunities and clear targets.,19-08-2026,HR Survey
+EMP027,Karan Desai,Finance,Team Lead,18,5,5,5,5,The team culture here is genuinely supportive.,16-08-2026,HR Survey
+EMP028,Manav Reddy,Finance,Manager,2,5,4,4,5,,02-09-2026,HR Survey
+EMP029,Aditya Iyer,Finance,Executive,17,3,4,3,4,,07-08-2026,HR Survey
+EMP030,Sneha Mehta,Finance,Executive,8,3,3,5,4,,08-09-2026,HR Survey
+EMP031,Arjun Nair,Marketing,Associate,8,4,5,4,4,The team culture here is genuinely supportive.,01-09-2026,HR Survey
+EMP032,Kabir Sharma,Marketing,Team Lead,4,2,3,3,3,"No major complaints, though communication could be better.",25-08-2026,HR Survey
+EMP033,Sneha Joshi,Marketing,Associate,6,5,5,4,5,,22-08-2026,HR Survey
+EMP034,Meera Sinha,Marketing,Senior Executive,9,4,4,5,5,The team culture here is genuinely supportive.,21-08-2026,HR Survey
+EMP035,Varun Joshi,Marketing,Senior Executive,9,5,4,3,4,Managers are approachable and my work gets noticed.,12-09-2026,HR Survey
+EMP036,Arjun Sharma,Marketing,Executive,11,4,4,4,4,Good learning opportunities and clear targets.,07-09-2026,HR Survey
+EMP037,Sanya Sharma,Marketing,Executive,3,4,3,4,4,,07-09-2026,HR Survey
+EMP038,Rohan Sharma,Marketing,Associate,12,2,3,3,3,"No major complaints, though communication could be better.",14-09-2026,HR Survey
+EMP039,Sanya Sinha,Marketing,Team Lead,5,2,2,2,2,High attrition in the team has increased pressure on the rest of us.,04-08-2026,HR Survey
+EMP040,Nikhil Chopra,Marketing,Team Lead,8,3,3,2,3,,05-08-2026,HR Survey
+EMP041,Sneha Nair,Marketing,Team Lead,12,5,5,5,5,Managers are approachable and my work gets noticed.,14-09-2026,HR Survey
+EMP042,Nikhil Desai,Marketing,Executive,9,3,4,3,3,"Work is fine, but growth feels slow.",10-08-2026,HR Survey
+EMP043,Arjun Iyer,Marketing,Manager,9,4,4,5,5,The team culture here is genuinely supportive.,23-08-2026,HR Survey
+EMP044,Aditya Patel,Marketing,Team Lead,7,4,3,5,4,Managers are approachable and my work gets noticed.,05-09-2026,HR Survey
+EMP045,Sanya Gupta,Marketing,Senior Executive,12,5,4,5,5,,23-08-2026,HR Survey
+EMP046,Meera Reddy,Marketing,Associate,17,4,5,4,4,Good learning opportunities and clear targets.,16-09-2026,HR Survey
+EMP047,Rohan Nair,Marketing,Team Lead,13,3,3,4,3,"Work is fine, but growth feels slow.",22-08-2026,HR Survey
+EMP048,Ishita Chopra,Marketing,Manager,11,4,4,4,3,"No major complaints, though communication could be better.",04-09-2026,HR Survey
+EMP049,Kavya Iyer,Operations,Executive,10,4,3,4,4,The team culture here is genuinely supportive.,17-08-2026,HR Survey
+EMP050,Rohan Sharma,Operations,Executive,8,5,4,5,5,Good learning opportunities and clear targets.,12-09-2026,HR Survey
+EMP051,Varun Reddy,Operations,Team Lead,16,5,4,4,4,Managers are approachable and my work gets noticed.,09-08-2026,HR Survey
+EMP052,Sneha Iyer,Operations,Manager,15,3,4,3,4,Good learning opportunities and clear targets.,11-08-2026,HR Survey
+EMP053,Pooja Kulkarni,Operations,Manager,11,5,5,5,5,Flexible hours make a real difference to my week.,02-09-2026,HR Survey
+EMP054,Sneha Bhatt,Operations,Associate,17,5,4,4,4,Good learning opportunities and clear targets.,07-08-2026,HR Survey
+EMP055,Sneha Desai,Operations,Associate,11,3,4,4,4,Flexible hours make a real difference to my week.,27-08-2026,HR Survey
+EMP056,Varun Nair,Operations,Executive,14,5,4,5,4,Good learning opportunities and clear targets.,06-08-2026,HR Survey
+EMP057,Ishita Mehta,Operations,Manager,1,4,4,2,3,Appraisals are regular but feedback stays vague.,22-08-2026,HR Survey
+EMP058,Ishita Kulkarni,Operations,Manager,8,5,4,4,4,Good learning opportunities and clear targets.,03-09-2026,HR Survey
+EMP059,Nikhil Gupta,Operations,Team Lead,6,2,1,1,1,High attrition in the team has increased pressure on the rest of us.,09-09-2026,HR Survey
+EMP060,Aarav Patel,Operations,Team Lead,5,5,4,3,4,The team culture here is genuinely supportive.,27-08-2026,HR Survey
+EMP061,Karan Joshi,Operations,Associate,13,3,4,3,3,"Work is fine, but growth feels slow.",02-09-2026,HR Survey
+EMP062,Sanya Sharma,Operations,Associate,8,1,1,1,1,Recognition rarely reaches people outside the core team.,15-08-2026,HR Survey
+EMP063,Ritika Iyer,Operations,Senior Executive,5,5,4,5,5,Good learning opportunities and clear targets.,16-09-2026,HR Survey
+EMP064,Tara Iyer,Operations,Manager,4,3,3,2,3,"Work is fine, but growth feels slow.",22-08-2026,HR Survey
+EMP065,Rahul Mehta,Operations,Senior Executive,3,4,3,4,4,,10-08-2026,HR Survey
+EMP066,Manav Chopra,Operations,Executive,12,5,5,4,5,,13-09-2026,HR Survey
+EMP067,Ishita Bhatt,Operations,Team Lead,4,4,3,4,3,"No major complaints, though communication could be better.",30-08-2026,HR Survey
+EMP068,Aditya Gupta,Operations,Associate,18,4,4,4,3,Appraisals are regular but feedback stays vague.,23-08-2026,HR Survey
+EMP069,Kabir Desai,Information Technology,Team Lead,8,5,5,5,5,Managers are approachable and my work gets noticed.,03-09-2026,HR Survey
+EMP070,Ananya Rao,Information Technology,Senior Executive,12,5,5,5,5,,16-09-2026,HR Survey
+EMP071,Sanya Sharma,Information Technology,Manager,7,4,5,5,5,Good learning opportunities and clear targets.,07-09-2026,HR Survey
+EMP072,Varun Rao,Information Technology,Team Lead,15,3,3,4,4,Flexible hours make a real difference to my week.,28-08-2026,HR Survey
+EMP073,Priya Gupta,Information Technology,Manager,12,5,4,5,4,,24-08-2026,HR Survey
+EMP074,Karan Desai,Information Technology,Associate,9,3,2,3,3,Appraisals are regular but feedback stays vague.,10-08-2026,HR Survey
+EMP075,Varun Iyer,Information Technology,Senior Executive,7,5,4,4,4,Managers are approachable and my work gets noticed.,15-08-2026,HR Survey
+EMP076,Tara Iyer,Information Technology,Associate,1,3,3,2,3,"Work is fine, but growth feels slow.",07-09-2026,HR Survey
+EMP077,Rohan Gupta,Information Technology,Team Lead,4,2,3,4,3,,31-08-2026,HR Survey
+EMP078,Diya Desai,Information Technology,Team Lead,4,2,4,4,3,"Work is fine, but growth feels slow.",08-09-2026,HR Survey
+EMP079,Diya Iyer,Information Technology,Senior Executive,10,3,4,3,4,,29-08-2026,HR Survey
+EMP080,Ritika Nair,Information Technology,Manager,13,5,5,4,4,,30-08-2026,HR Survey
+EMP081,Ritika Sharma,Information Technology,Manager,4,3,3,3,3,"Work is fine, but growth feels slow.",13-08-2026,HR Survey
+EMP082,Sanya Patel,Information Technology,Senior Executive,1,4,4,4,3,Appraisals are regular but feedback stays vague.,05-08-2026,HR Survey
+EMP083,Varun Desai,Information Technology,Team Lead,3,3,3,3,3,,10-08-2026,HR Survey
+EMP084,Siddharth Iyer,Information Technology,Associate,5,3,3,4,4,The team culture here is genuinely supportive.,10-09-2026,HR Survey
+EMP085,Manav Sinha,Information Technology,Associate,15,3,5,4,4,Good learning opportunities and clear targets.,20-08-2026,HR Survey
+EMP086,Neha Rao,Information Technology,Executive,2,5,4,4,4,Managers are approachable and my work gets noticed.,08-08-2026,HR Survey
+EMP087,Pooja Bhatt,Information Technology,Manager,1,3,2,3,3,,05-09-2026,HR Survey
+EMP088,Arjun Iyer,Information Technology,Manager,14,5,3,5,4,The team culture here is genuinely supportive.,29-08-2026,HR Survey
+EMP089,Pooja Patel,Information Technology,Senior Executive,11,4,4,3,3,,07-09-2026,HR Survey
+EMP090,Kabir Joshi,Information Technology,Associate,11,1,2,1,1,High attrition in the team has increased pressure on the rest of us.,29-08-2026,HR Survey
+EMP091,Aditya Joshi,Information Technology,Manager,16,3,1,2,2,Very little clarity on promotions.,07-09-2026,HR Survey
+EMP092,Priya Rao,Information Technology,Team Lead,4,2,3,3,3,Appraisals are regular but feedback stays vague.,07-09-2026,HR Survey
+EMP093,Ishita Patel,Sales,Senior Executive,4,2,1,1,1,High attrition in the team has increased pressure on the rest of us.,17-09-2026,HR Survey
+EMP094,Varun Desai,Sales,Team Lead,16,4,3,4,3,"No major complaints, though communication could be better.",27-08-2026,HR Survey
+EMP095,Ritika Kulkarni,Sales,Senior Executive,3,3,4,3,3,Appraisals are regular but feedback stays vague.,03-08-2026,HR Survey
+EMP096,Priya Bhatt,Sales,Manager,16,3,4,4,3,Appraisals are regular but feedback stays vague.,24-08-2026,HR Survey
+EMP097,Sanya Mehta,Sales,Team Lead,11,4,4,5,4,Flexible hours make a real difference to my week.,29-08-2026,HR Survey
+EMP098,Kavya Rao,Sales,Team Lead,13,1,2,1,1,Recognition rarely reaches people outside the core team.,04-09-2026,HR Survey
+EMP099,Nikhil Bhatt,Sales,Executive,15,4,5,4,5,Flexible hours make a real difference to my week.,29-08-2026,HR Survey
+EMP100,Rohan Patel,Sales,Team Lead,9,5,5,4,5,The team culture here is genuinely supportive.,15-09-2026,HR Survey
+EMP101,Rahul Joshi,Sales,Team Lead,18,4,4,5,5,The team culture here is genuinely supportive.,17-08-2026,HR Survey
+EMP102,Ishita Patel,Sales,Executive,15,4,4,3,4,Managers are approachable and my work gets noticed.,23-08-2026,HR Survey
+EMP103,Priya Joshi,Sales,Associate,14,5,5,5,5,,15-09-2026,HR Survey
+EMP104,Ananya Iyer,Sales,Executive,13,4,5,4,4,Flexible hours make a real difference to my week.,01-09-2026,HR Survey
+EMP105,Karan Desai,Sales,Executive,15,4,4,3,4,Good learning opportunities and clear targets.,25-08-2026,HR Survey
+EMP106,Priya Gupta,Sales,Team Lead,9,5,5,5,5,Good learning opportunities and clear targets.,02-09-2026,HR Survey
+EMP107,Rahul Banerjee,Sales,Associate,10,2,1,3,2,Very little clarity on promotions.,03-08-2026,HR Survey
+EMP108,Pooja Chopra,Sales,Executive,16,4,4,4,4,Flexible hours make a real difference to my week.,12-09-2026,HR Survey
+EMP109,Arjun Gupta,Sales,Senior Executive,4,2,3,4,3,"Work is fine, but growth feels slow.",09-09-2026,HR Survey
+EMP110,Rohan Patel,Sales,Associate,11,4,3,3,3,"No major complaints, though communication could be better.",06-09-2026,HR Survey
+EMP111,Tara Kulkarni,Customer Support,Manager,9,5,5,5,5,The team culture here is genuinely supportive.,24-08-2026,HR Survey
+EMP112,Karan Patel,Customer Support,Senior Executive,8,5,4,3,4,Good learning opportunities and clear targets.,03-08-2026,HR Survey
+EMP113,Meera Rao,Customer Support,Associate,9,4,3,2,3,"No major complaints, though communication could be better.",02-09-2026,HR Survey
+EMP114,Sanya Joshi,Customer Support,Manager,8,1,2,1,1,High attrition in the team has increased pressure on the rest of us.,10-08-2026,HR Survey
+EMP115,Diya Desai,Customer Support,Team Lead,4,1,2,2,2,High attrition in the team has increased pressure on the rest of us.,01-09-2026,HR Survey
+EMP116,Kavya Reddy,Customer Support,Manager,14,3,4,2,3,,11-09-2026,HR Survey
+EMP117,Arjun Sharma,Customer Support,Associate,7,4,4,3,3,Appraisals are regular but feedback stays vague.,09-08-2026,HR Survey
+EMP118,Tara Kulkarni,Customer Support,Associate,2,5,5,5,5,Managers are approachable and my work gets noticed.,01-09-2026,HR Survey
+EMP119,Vikram Gupta,Customer Support,Manager,1,1,1,1,1,Recognition rarely reaches people outside the core team.,08-09-2026,HR Survey
+EMP120,Sanya Nair,Customer Support,Manager,7,2,2,2,2,Workload is unrealistic and overtime has become normal.,20-08-2026,HR Survey
